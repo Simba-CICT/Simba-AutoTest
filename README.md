@@ -1,2 +1,1 @@
-# Simba-AutoTest
-Used to store Simba CICT-related documents and codes
+Here is used to store Simba CICT related documents and codes
